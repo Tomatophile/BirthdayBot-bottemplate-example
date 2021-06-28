@@ -1,3 +1,3 @@
 telegram.bot:
-  token: 1749718904:AAFp_AEtdOceUTEhewYhFniX_z4EZT2uZZQ
-  username: teamanbirthdaybot
+  token: ${token}
+  username: ${username}
